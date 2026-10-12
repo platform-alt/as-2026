@@ -1,6 +1,6 @@
 # SP1 Kroužky
 
-Kód žáka: K07
+Kód žáka: 25
 
 ## Co bolí na původní tabulce
 * Údaje o kroužku, jako je jeho cena, místnost nebo vedoucí, se bezdůvodně kopírují u každého žáka zvlášť, takže při jakékoliv změně musíme ručně přepisovat hned několik řádků.
